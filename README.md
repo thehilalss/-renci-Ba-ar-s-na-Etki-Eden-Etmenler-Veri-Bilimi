@@ -1,1 +1,1 @@
-# -renci-Ba-ar-s-na-Etki-Eden-Etmenler-Veri-Bilimi
+# Ogrenci-Basarisina-Etki-Eden-Etmenler-Veri-Bilimi
